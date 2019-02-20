@@ -1,0 +1,5 @@
+name: SocketApi
+version: ${project.version}
+main: org.sct.socketapi.Socketapi
+authors: [Alchemy, Qnickx]
+description: socket api 
